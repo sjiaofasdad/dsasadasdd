@@ -1,0 +1,9 @@
+if game.PlaceId == 4779613061 then -- sl2
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/notfrostedwow/aaaaaaaaaaaasl2/main/aaaaaaaa"))()
+elseif game.PlaceId == 2788229376 then -- dh
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/notfrostedwow/aaaaaaaaaaddha/main/sdadaa"))()
+elseif game.PlaceId == 5602055394 then --hood modded
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/notfrostedwow/aaaaaaahoodmaa/main/sadasdadas"))()
+else
+    game.Players.LocalPlayer:Kick('Noob')
+end
